@@ -10,9 +10,8 @@ using System.Data.SqlClient;
 using System.IO;
 using System.Net;
 using System.Net.Mail;
-using DotRas;
 using System.Xml;
-using LTD_People;
+using LTDesktop;
 using Manta_Alex_Payments;
 
 namespace Manta_Alex
@@ -440,8 +439,8 @@ namespace Manta_Alex
                 
                 c.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
             }
-            cb_search.SelectedItem = cb_search.Items[4];
-            comboBox_se.SelectedIndex = 4;
+            //cb_search.SelectedItem = cb_search.Items[4];
+            //comboBox_se.SelectedIndex = 4;
             if (File.Exists("View.xml"))
             {
 

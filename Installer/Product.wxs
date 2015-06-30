@@ -72,10 +72,10 @@
         <File Source="..\Manta_Alex\bin\Release\GongShell.dll" KeyPath="yes"></File>
       </Component>
       <Component Guid="{00941277-31C3-4CB3-899F-B23EC796D4BB}">
-        <File Source ="..\Manta_Alex\bin\Release\LTD_People.exe.manifest" KeyPath="yes"></File>
+        <File Source ="..\Manta_Alex\bin\Release\LTDesktop.exe.manifest" KeyPath="yes"></File>
       </Component>
       <Component Guid="{3DAA9B34-1858-4EBF-A9CA-61B56CC4656A}">
-        <File Source="..\Manta_Alex\bin\Release\LTD_People.exe.config" KeyPath="yes"></File>
+        <File Source="..\Manta_Alex\bin\Release\LTDesktop.exe.config" KeyPath="yes"></File>
       </Component>
       <Component Guid="{C17EA5DB-553C-4549-B195-3D22D898E3D2}">
         <File Source="..\Manta_Alex\bin\Release\update.xml" KeyPath="yes"></File>

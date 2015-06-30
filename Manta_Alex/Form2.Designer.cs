@@ -65,7 +65,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.btt_files = new System.Windows.Forms.Button();
-            this.dataSet11 = new LTD_People.DataSet1();
+            this.dataSet11 = new LTDesktop.DataSet1();
             this.btt_payments = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.btt_search = new System.Windows.Forms.Button();
@@ -693,7 +693,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btt_files;
-        private LTD_People.DataSet1 dataSet11;
+        private LTDesktop.DataSet1 dataSet11;
         private System.Windows.Forms.Button btt_payments;
     }
 }

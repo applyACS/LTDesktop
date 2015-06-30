@@ -9,8 +9,6 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.IO;
 using System.Xml;
-using DotRas;
-using DotRas.Design;
 using System.DirectoryServices.AccountManagement;
 using System.Security.Cryptography;
 using System.Net;
@@ -24,7 +22,6 @@ namespace Manta_Alex
         public Form5 frm = new Form5();
         public string table = "";
         List<string> arg = new List<string>();
-        public static RasDialer dialer = new RasDialer();
         bool valid = false;
         public static string username;
         string password;
@@ -37,7 +34,6 @@ namespace Manta_Alex
 
         private void button_connect_Click(object sender, EventArgs e)
         {
-            dialer.PhoneBookPath = "C:\\Documents and Settings\\All Users\\Application Data\\Microsoft\\Network\\Connections\\Pbk\\rasphone.pbk";
             
             if (txt_user.Text == null || txt_user.Text == "" && txt_pass.Text == null || txt_pass.Text == "")
             {
@@ -45,11 +41,11 @@ namespace Manta_Alex
             }
             else
             {
-                arg.Add("87.106.241.127");
-                arg.Add("49257");
-                arg.Add("M&A");
-                arg.Add("sa");
-                arg.Add("BusinessCloud123");
+                arg.Add(LTDesktop.Properties.Settings.Default.Server.ToString());
+                arg.Add(LTDesktop.Properties.Settings.Default.Port.ToString());
+                arg.Add(LTDesktop.Properties.Settings.Default.db.ToString());
+                arg.Add(LTDesktop.Properties.Settings.Default.User.ToString());
+                arg.Add(LTDesktop.Properties.Settings.Default.Password.ToString());
                 arg.Add("false");
                 username = txt_user.Text;
                 password = txt_pass.Text;
@@ -97,65 +93,6 @@ namespace Manta_Alex
                 }
                 
                 
-            }
-        }
-        private void dialer_StateChanged(object sender, StateChangedEventArgs e)
-        {
-            TextBox.CheckForIllegalCrossThreadCalls = false;
-            this.label_con.Text = e.State.ToString();
-        }
-
-        private void dialer_DialCompleted(object sender, DialCompletedEventArgs e)
-        {
-            if(e.Cancelled)
-            {
-                label_con.Text = "Cancelled!";
-            }
-            else if (e.TimedOut)
-            {
-                label_con.Text = "Connection attempt timed out!";
-            }
-            else if (e.Error != null)
-            {
-                MessageBox.Show(e.Error.ToString());
-                label_con.Text = "Check your credentials";
-                txt_pass.Enabled = true;
-                txt_user.Enabled = true;
-            }
-            else if (e.Connected)
-            {
-                user(txt_user.Text, txt_pass.Text);
-               
-                if(!valid)
-                {
-                    txt_pass.Enabled = true;
-                    txt_user.Enabled = true;
-                    MessageBox.Show("Check your credentials", "Error");
-                    return;
-                    
-                }
-                frm = new Form5(arg);
-                frm.ShowDialog();
-                if (frm.error)
-                {
-                    return;
-                }
-                string action = "Loged in";
-                Form1.Conn = frm.Conn;
-                update();
-                //System.Diagnostics.Process.Start("explorer.exe", @"\\87.106.241.127\d");
-                this.DialogResult = DialogResult.OK;
-                using (SqlCommand newq = new SqlCommand("INSERT INTO log([User], [Action], [Date]) VALUES (@use, @actio, @dat)", Form1.Conn))
-                {
-                    newq.Parameters.Add(new SqlParameter("@use", username));
-                    newq.Parameters.Add(new SqlParameter("@actio", action));
-                    newq.Parameters.Add(new SqlParameter("@dat", DateTime.Now.ToString("yyyy_MM_dd")));
-                    newq.CommandType = CommandType.Text;
-                    newq.ExecuteNonQuery();
-                }
-                //SqlCommand darates = new SqlCommand("INSERT INTO log([User], [Action], [Date])" + " VALUES ('" + username + "', '" + action + "', '" + DateTime.Now.ToString("yyyy_MM_dd") + "')", Form1.Conn);
-                //darates.ExecuteNonQuery();
-                this.Close();
             }
         }
         private void user(string user, string pass)

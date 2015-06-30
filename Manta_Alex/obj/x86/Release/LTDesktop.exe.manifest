@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Manta_Alex.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="LTDesktop.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="logo_t.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Manta_Alex" version="2.2.0.0" language="neutral" processorArchitecture="msil" />
-    <commandLine file="Manta_Alex.exe" parameters="" />
+    <assemblyIdentity name="LTDesktop" version="2.3.3.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="LTDesktop.exe" parameters="" />
   </entryPoint>
   <trustInfo>
     <security>
@@ -67,26 +67,29 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Manta_Alex.exe" size="2143232">
-      <assemblyIdentity name="Manta_Alex" version="2.2.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="itextsharp.dll" size="3743744">
+      <assemblyIdentity name="itextsharp" version="5.4.2.0" publicKeyToken="8354AE6D2174DDCA" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>uGuYb/me8LWa8RswNkJRXiy+ivg=</dsig:DigestValue>
+        <dsig:DigestValue>EWZMoMUX+c2u2L8MPm+vsSzDJ3s=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="LOGO.ico" size="135230">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>94BNxbo5mbhvyIEnL8lWO+/avUs=</dsig:DigestValue>
-    </hash>
-  </file>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LTDesktop.exe" size="2440192">
+      <assemblyIdentity name="LTDesktop" version="2.3.3.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>lHwGDpbnSH8/QFk4sBxZb7zC7B4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
   <file name="logo_t.ico" size="1191286">
     <hash>
       <dsig:Transforms>
@@ -96,13 +99,13 @@
       <dsig:DigestValue>PMOwFaSQYUNzto2UX2SUNTgZ/48=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Manta_Alex.exe.config" size="841">
+  <file name="LTDesktop.exe.config" size="1587">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>dDborzOLSHcxUPGrTq23hEoqT04=</dsig:DigestValue>
+      <dsig:DigestValue>4d8zyJnGKy8mCBAAEdTebi3p3uM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="NEW_LOGO_LOOK.ico" size="71870">

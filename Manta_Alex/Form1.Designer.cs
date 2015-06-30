@@ -121,8 +121,8 @@
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.ErrorImage = global::LTD_People.Properties.Resources.form1;
-            this.pictureBox1.Image = global::LTD_People.Properties.Resources.form1;
+            this.pictureBox1.ErrorImage = global::LTDesktop.Properties.Resources.form1;
+            this.pictureBox1.Image = global::LTDesktop.Properties.Resources.form1;
             this.pictureBox1.Location = new System.Drawing.Point(237, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(269, 153);
