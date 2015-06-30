@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?define ProductVersion = "2.3.3"?>
+<?define ProductUpgradeCode = "bb38858c-4788-49d7-a059-68da7f1ead35"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="MAD" Language="1033" Version="$(var.ProductVersion)" Manufacturer="CrIsTiAn" UpgradeCode="$(var.ProductUpgradeCode)">
+		<Package Id="*" Keywords="Installer"
+    Description="Manta-Alex LTD Database"
+             Comments="Manta-Alex LTD Database is created by CrIsTiAn"
+             Manufacturer="CrIsTiAn"
+             Languages="1033"
+    InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+    <Property Id="DiskPrompt" Value="Manta-Alex LTD Database Installation"></Property>
+
+		<MediaTemplate EmbedCab="yes"/>
+    <Icon Id="ProductIcon" SourceFile="logo.ico"/>
+    <Property Id="ARPPRODUCTICON" Value="ProductIcon"/>
+    <Property Id="ARPNOREPAIR" Value="1"/>
+    <Property Id="ARPNOMODIFY" Value="1"/>
+    
+    <Upgrade Id="$(var.ProductUpgradeCode)">
+         <UpgradeVersion Minimum="$(var.ProductVersion)" OnlyDetect="yes" Property="NEWERVERSIONDETECTED"/>
+         <UpgradeVersion Minimum="0.0.0" Maximum="$(var.ProductVersion)" IncludeMinimum="yes" IncludeMaximum="no" 
+                         Property="OLDERVERSIONBEINGUPGRADED"/>	  
+      </Upgrade>
+      <Condition Message="A newer version of this software is already installed.">NOT NEWERVERSIONDETECTED</Condition>
+
+		<Feature Id="ProductFeature" Title="MAD" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+      <!--<ComponentRef Id="ApplicationShortcutDesktop"/>-->
+		</Feature>
+	</Product>
+
+	<Fragment>
+    <Directory Id="TARGETDIR" Name="SourceDir">
+
+      <Directory Id="ProgramFilesFolder">
+        <Directory Id="INSTALLFOLDER" Name="MAD" />
+      
+      
+    <Directory Id="DesktopFolder" Name="Desktop">
+        </Directory>
+      </Directory>
+        </Directory>
+
+    <InstallExecuteSequence>
+         <RemoveExistingProducts After="InstallValidate"/>
+      </InstallExecuteSequence>
+      
+	</Fragment>
+  
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+      <Component Guid="{9373ACFD-508C-4A6E-A88D-C5162577B282}">
+        <File Source="$(var.People_LTD.TargetPath)" KeyPath="yes">
+           <Shortcut Id="Desktop"
+             Directory="DesktopFolder"
+             Name ="MA People"
+             Advertise="yes"
+             WorkingDirectory="INSTALLFOLDER"
+             Icon="Manta_Alex.exe">
+                     <Icon Id="Manta_Alex.exe" SourceFile="$(var.People_LTD.TargetPath)"></Icon>
+          </Shortcut>
+        </File>
+      </Component>
+      <Component Guid="{222D0F4F-459E-4707-B4C5-61C01B1DE3C4}">
+        <File Source="..\Manta_Alex\bin\Release\DotRas.dll" KeyPath="yes"></File>
+      </Component>
+      <Component Guid="{D881B676-E07E-4AD1-9443-CBF377540DCD}">
+        <File Source="..\Manta_Alex\bin\Release\itextsharp.dll" KeyPath="yes"></File>
+      </Component>
+      <Component Guid="{7794E8A4-1BEC-415B-A2CD-566CD83F36C7}">
+        <File Source="..\Manta_Alex\bin\Release\GongShell.dll" KeyPath="yes"></File>
+      </Component>
+      <Component Guid="{00941277-31C3-4CB3-899F-B23EC796D4BB}">
+        <File Source ="..\Manta_Alex\bin\Release\LTD_People.exe.manifest" KeyPath="yes"></File>
+      </Component>
+      <Component Guid="{3DAA9B34-1858-4EBF-A9CA-61B56CC4656A}">
+        <File Source="..\Manta_Alex\bin\Release\LTD_People.exe.config" KeyPath="yes"></File>
+      </Component>
+      <Component Guid="{C17EA5DB-553C-4549-B195-3D22D898E3D2}">
+        <File Source="..\Manta_Alex\bin\Release\update.xml" KeyPath="yes"></File>
+      </Component>
+      <Component Guid="{7638FC95-A405-46D9-9134-8A1E275C4EF3}">
+        <File Source="..\Manta_Alex\bin\Release\logo.jpg" KeyPath="yes"></File>
+      </Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

@@ -1,0 +1,12 @@
+obj\Debug\Product.wixobj
+obj\Debug\Installer.wixproj.BindContentsFileListnull.txt
+obj\Debug\Installer.wixproj.BindOutputsFileListnull.txt
+obj\Debug\Installer.wixproj.BindBuiltOutputsFileListnull.txt
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Debug\MAD.msi
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Debug\MAD.wixpdb
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Debug\MAD.msi
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Debug\MAD.wixpdb
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Debug\MAD.msi
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Debug\MAD.wixpdb
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Debug\MAD.msi
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Debug\MAD.wixpdb

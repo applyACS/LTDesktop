@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <connection>
+    <Server>86.136.76.66</Server>
+    <Port>1433</Port>
+    <Database>M&amp;A</Database>
+    <User>sa</User>
+    <Password>Business22Ma</Password>
+  </connection>
+</DataSet1>

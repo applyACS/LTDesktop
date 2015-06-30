@@ -1,0 +1,10 @@
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Release\MAD.msi
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Release\MAD.wixpdb
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Release\MAD.msi
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Release\MAD.wixpdb
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Release\MAD.msi
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Release\MAD.wixpdb
+obj\Release\Product.wixobj
+obj\Release\Installer.wixproj.BindContentsFileListnull.txt
+obj\Release\Installer.wixproj.BindOutputsFileListnull.txt
+obj\Release\Installer.wixproj.BindBuiltOutputsFileListnull.txt

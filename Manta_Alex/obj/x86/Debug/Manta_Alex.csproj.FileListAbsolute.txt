@@ -1,0 +1,164 @@
+C:\Documents and Settings\USER\my documents\visual studio 2010\Projects\Manta_Alex\Manta_Alex\bin\Debug\Manta_Alex.exe
+C:\Documents and Settings\USER\my documents\visual studio 2010\Projects\Manta_Alex\Manta_Alex\bin\Debug\Manta_Alex.pdb
+C:\Documents and Settings\USER\my documents\visual studio 2010\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\USER\my documents\visual studio 2010\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form1.resources
+C:\Documents and Settings\USER\my documents\visual studio 2010\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form2.resources
+C:\Documents and Settings\USER\my documents\visual studio 2010\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form3.resources
+C:\Documents and Settings\USER\my documents\visual studio 2010\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form4.resources
+C:\Documents and Settings\USER\my documents\visual studio 2010\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Properties.Resources.resources
+C:\Documents and Settings\USER\my documents\visual studio 2010\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\USER\my documents\visual studio 2010\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\USER\my documents\visual studio 2010\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.exe
+C:\Documents and Settings\USER\my documents\visual studio 2010\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.pdb
+C:\Documents and Settings\USER\my documents\visual studio 2010\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form5.resources
+C:\Users\CrIsTiAn\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.exe
+C:\Users\CrIsTiAn\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.pdb
+C:\Users\CrIsTiAn\Desktop\Manta_Alex\Manta_Alex\bin\Debug\Manta_Alex.exe
+C:\Users\CrIsTiAn\Desktop\Manta_Alex\Manta_Alex\bin\Debug\Manta_Alex.pdb
+C:\Users\CrIsTiAn\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.csprojResolveAssemblyReference.cache
+C:\Users\CrIsTiAn\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form1.resources
+C:\Users\CrIsTiAn\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form2.resources
+C:\Users\CrIsTiAn\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form3.resources
+C:\Users\CrIsTiAn\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form4.resources
+C:\Users\CrIsTiAn\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form5.resources
+C:\Users\CrIsTiAn\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Properties.Resources.resources
+C:\Users\CrIsTiAn\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.csproj.GenerateResource.Cache
+C:\Documents and Settings\USER\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.exe
+C:\Documents and Settings\USER\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.pdb
+C:\Documents and Settings\USER\Desktop\Manta_Alex\Manta_Alex\bin\Debug\Manta_Alex.exe
+C:\Documents and Settings\USER\Desktop\Manta_Alex\Manta_Alex\bin\Debug\Manta_Alex.pdb
+C:\Documents and Settings\USER\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\USER\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form1.resources
+C:\Documents and Settings\USER\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form2.resources
+C:\Documents and Settings\USER\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form3.resources
+C:\Documents and Settings\USER\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form4.resources
+C:\Documents and Settings\USER\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form5.resources
+C:\Documents and Settings\USER\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Properties.Resources.resources
+C:\Documents and Settings\USER\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\USER\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\USER\Desktop\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form6.resources
+C:\Documents and Settings\USER\Desktop\Manta_Alex\Manta_Alex\bin\Debug\Manta_Alex.exe.config
+C:\Users\CrIsTiAn\Documents\Visual Studio 2012\Projects\Manta_Alex\Manta_Alex\bin\Debug\Manta_Alex.exe.config
+C:\Users\CrIsTiAn\Documents\Visual Studio 2012\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.exe
+C:\Users\CrIsTiAn\Documents\Visual Studio 2012\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.pdb
+C:\Users\CrIsTiAn\Documents\Visual Studio 2012\Projects\Manta_Alex\Manta_Alex\bin\Debug\Manta_Alex.exe
+C:\Users\CrIsTiAn\Documents\Visual Studio 2012\Projects\Manta_Alex\Manta_Alex\bin\Debug\Manta_Alex.pdb
+C:\Users\CrIsTiAn\Documents\Visual Studio 2012\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.csprojResolveAssemblyReference.cache
+C:\Users\CrIsTiAn\Documents\Visual Studio 2012\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form1.resources
+C:\Users\CrIsTiAn\Documents\Visual Studio 2012\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form2.resources
+C:\Users\CrIsTiAn\Documents\Visual Studio 2012\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form3.resources
+C:\Users\CrIsTiAn\Documents\Visual Studio 2012\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form4.resources
+C:\Users\CrIsTiAn\Documents\Visual Studio 2012\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form5.resources
+C:\Users\CrIsTiAn\Documents\Visual Studio 2012\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form6.resources
+C:\Users\CrIsTiAn\Documents\Visual Studio 2012\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Properties.Resources.resources
+C:\Users\CrIsTiAn\Documents\Visual Studio 2012\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.csproj.GenerateResource.Cache
+C:\Documents and Settings\USER\My Documents\Visual Studio 2010\Projects\Manta_Alex\Manta_Alex\bin\Debug\Manta_Alex.exe.config
+C:\Documents and Settings\USER\My Documents\Visual Studio 2010\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form6.resources
+C:\Documents and Settings\USER\My Documents\Visual Studio 2010\Projects\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form7.resources
+D:\Manta_Alex\Manta_Alex\bin\Debug\Manta_Alex.exe.config
+D:\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.exe
+D:\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.pdb
+D:\Manta_Alex\Manta_Alex\bin\Debug\Manta_Alex.exe
+D:\Manta_Alex\Manta_Alex\bin\Debug\Manta_Alex.pdb
+D:\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form1.resources
+D:\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form2.resources
+D:\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form3.resources
+D:\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form4.resources
+D:\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form5.resources
+D:\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form6.resources
+D:\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Form7.resources
+D:\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.Properties.Resources.resources
+D:\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.csproj.GenerateResource.Cache
+D:\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.csprojResolveAssemblyReference.cache
+\\CRISTIAN-PC\Manta_Alex\Manta_Alex\bin\Debug\Manta_Alex.exe.config
+\\CRISTIAN-PC\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.exe
+\\CRISTIAN-PC\Manta_Alex\Manta_Alex\obj\x86\Debug\Manta_Alex.pdb
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.exe.config
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.exe
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.pdb
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.exe
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.pdb
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form1.resources
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form2.resources
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form3.resources
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form4.resources
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form5.resources
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form6.resources
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form7.resources
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Properties.Resources.resources
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.csproj.GenerateResource.Cache
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.exe.manifest
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.application
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.TrustInfo.xml
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.exe.manifest
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.application
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.log.resources
+C:\Users\Alexandru\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.exe.config
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.exe
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.pdb
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form1.resources
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form2.resources
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form3.resources
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form4.resources
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form5.resources
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form6.resources
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form7.resources
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.log.resources
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Properties.Resources.resources
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.TrustInfo.xml
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.exe.manifest
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.application
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.exe
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.pdb
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.exe.manifest
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.application
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.exe.CodeAnalysisLog.xml
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.exe.lastcodeanalysissucceeded
+C:\Users\Cristian\Desktop\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.csprojResolveAssemblyReference.cache
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.exe.config
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.exe
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.pdb
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.exe.manifest
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.application
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.exe
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\Manta_Alex.pdb
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form1.resources
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form2.resources
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form3.resources
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form4.resources
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form5.resources
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form6.resources
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form7.resources
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.log.resources
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Properties.Resources.resources
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.csproj.GenerateResource.Cache
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.TrustInfo.xml
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.exe.manifest
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.application
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\GongShell.dll
+D:\USB\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.files.resources
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\LTD_People.exe.config
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\LTD_People.exe
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\LTD_People.pdb
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\LTD_People.exe.manifest
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\LTD_People.application
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\LTD_People.exe
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\LTD_People.pdb
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\GongShell.dll
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.csprojResolveAssemblyReference.cache
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.files.resources
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form1.resources
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form2.resources
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form3.resources
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form4.resources
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form5.resources
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form6.resources
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.Form7.resources
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.log.resources
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\LTD_People.Properties.Resources.resources
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\Manta_Alex.csproj.GenerateResource.Cache
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\LTD_People.TrustInfo.xml
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\LTD_People.exe.manifest
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Debug\LTD_People.application

@@ -1,0 +1,2 @@
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Debug\MAD.msi
+E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Debug\MAD.wixpdb

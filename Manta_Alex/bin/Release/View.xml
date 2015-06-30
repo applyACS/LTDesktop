@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <connection>
+    <ID>False</ID>
+    <First_x0020_Name>True</First_x0020_Name>
+    <Middle_x0020_Name>True</Middle_x0020_Name>
+    <Last_x0020_Name>True</Last_x0020_Name>
+    <Birth_x0020_date>False</Birth_x0020_date>
+    <Address>False</Address>
+    <Postcode>False</Postcode>
+    <Nationality>False</Nationality>
+    <Mobile>True</Mobile>
+    <Email>False</Email>
+    <Bank>False</Bank>
+    <Sort_x0020_Code>False</Sort_x0020_Code>
+    <Acc_x0020_no>False</Acc_x0020_no>
+    <Right_x0020_to_x0020_work>True</Right_x0020_to_x0020_work>
+    <UTR>False</UTR>
+    <NINO>False</NINO>
+    <Verification_x0020_no.>True</Verification_x0020_no.>
+    <CSCS>False</CSCS>
+    <CSCS_x0020_Expiry_x0020_date>False</CSCS_x0020_Expiry_x0020_date>
+    <Trade>True</Trade>
+    <Start_x0020_date>False</Start_x0020_date>
+    <Working>False</Working>
+    <Tax_x0020_status>False</Tax_x0020_status>
+  </connection>
+</DataSet1>
