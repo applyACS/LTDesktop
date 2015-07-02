@@ -8,3 +8,5 @@ obj\Release\Product.wixobj
 obj\Release\Installer.wixproj.BindContentsFileListnull.txt
 obj\Release\Installer.wixproj.BindOutputsFileListnull.txt
 obj\Release\Installer.wixproj.BindBuiltOutputsFileListnull.txt
+D:\applyACS\LTDesktop\Installer\bin\Release\MAD.msi
+D:\applyACS\LTDesktop\Installer\bin\Release\MAD.wixpdb

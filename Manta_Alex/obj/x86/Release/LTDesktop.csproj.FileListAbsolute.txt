@@ -28,8 +28,6 @@ D:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Release\itextsharp.dll
 D:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Release\itextsharp.xml
 D:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Release\LTD_People.application
 D:\applyACS\LTDesktop\Manta_Alex\bin\Release\GongShell.dll
-D:\applyACS\LTDesktop\Manta_Alex\bin\Release\itextsharp.xml
-D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.csprojResolveAssemblyReference.cache
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex_Payments.Browser.resources
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex.files.resources
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex.Form1.resources

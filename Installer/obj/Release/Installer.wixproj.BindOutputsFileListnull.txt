@@ -1,2 +1,2 @@
-E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Release\MAD.msi
-E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Installer\bin\Release\MAD.wixpdb
+D:\applyACS\LTDesktop\Installer\bin\Release\MAD.msi
+D:\applyACS\LTDesktop\Installer\bin\Release\MAD.wixpdb

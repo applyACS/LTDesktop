@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?define ProductVersion = "2.3.3"?>
+<?define ProductVersion = "3.0.0"?>
 <?define ProductUpgradeCode = "bb38858c-4788-49d7-a059-68da7f1ead35"?>
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
-	<Product Id="*" Name="MAD" Language="1033" Version="$(var.ProductVersion)" Manufacturer="CrIsTiAn" UpgradeCode="$(var.ProductUpgradeCode)">
+	<Product Id="*" Name="LTDesktop" Language="1033" Version="$(var.ProductVersion)" Manufacturer="CrIsTiAn" UpgradeCode="$(var.ProductUpgradeCode)">
 		<Package Id="*" Keywords="Installer"
     Description="Manta-Alex LTD Database"
-             Comments="Manta-Alex LTD Database is created by CrIsTiAn"
+             Comments="LTDesktop is created by CrIsTiAn"
              Manufacturer="CrIsTiAn"
              Languages="1033"
     InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
@@ -24,7 +24,7 @@
       </Upgrade>
       <Condition Message="A newer version of this software is already installed.">NOT NEWERVERSIONDETECTED</Condition>
 
-		<Feature Id="ProductFeature" Title="MAD" Level="1">
+		<Feature Id="ProductFeature" Title="LTDesktop" Level="1">
 			<ComponentGroupRef Id="ProductComponents" />
       <!--<ComponentRef Id="ApplicationShortcutDesktop"/>-->
 		</Feature>
@@ -34,7 +34,7 @@
     <Directory Id="TARGETDIR" Name="SourceDir">
 
       <Directory Id="ProgramFilesFolder">
-        <Directory Id="INSTALLFOLDER" Name="MAD" />
+        <Directory Id="INSTALLFOLDER" Name="LTDesktop" />
       
       
     <Directory Id="DesktopFolder" Name="Desktop">
@@ -51,14 +51,14 @@
 	<Fragment>
 		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
       <Component Guid="{9373ACFD-508C-4A6E-A88D-C5162577B282}">
-        <File Source="$(var.People_LTD.TargetPath)" KeyPath="yes">
+        <File Source="$(var.LTDesktop.TargetPath)" KeyPath="yes">
            <Shortcut Id="Desktop"
              Directory="DesktopFolder"
-             Name ="MA People"
+             Name ="LTDesktop"
              Advertise="yes"
              WorkingDirectory="INSTALLFOLDER"
              Icon="Manta_Alex.exe">
-                     <Icon Id="Manta_Alex.exe" SourceFile="$(var.People_LTD.TargetPath)"></Icon>
+                     <Icon Id="Manta_Alex.exe" SourceFile="$(var.LTDesktop.TargetPath)"></Icon>
           </Shortcut>
         </File>
       </Component>

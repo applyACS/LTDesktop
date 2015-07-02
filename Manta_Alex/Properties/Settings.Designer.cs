@@ -50,12 +50,12 @@ namespace LTDesktop.Properties {
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("M&A")]
-        public string db {
+        public string DB {
             get {
-                return ((string)(this["db"]));
+                return ((string)(this["DB"]));
             }
             set {
-                this["db"] = value;
+                this["DB"] = value;
             }
         }
         
@@ -80,6 +80,18 @@ namespace LTDesktop.Properties {
             }
             set {
                 this["Password"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool run {
+            get {
+                return ((bool)(this["run"]));
+            }
+            set {
+                this["run"] = value;
             }
         }
     }

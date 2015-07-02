@@ -2,8 +2,7 @@
 ..\Manta_Alex\bin\Release\GongShell.dll
 ..\Manta_Alex\bin\Release\itextsharp.dll
 ..\Manta_Alex\bin\Release\logo.jpg
-E:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Debug\LTD_People.exe
-..\Manta_Alex\bin\Release\LTD_People.exe.config
-..\Manta_Alex\bin\Release\LTD_People.exe.manifest
-..\Manta_Alex\bin\Release\LTD_People.pdb
+D:\applyACS\LTDesktop\Manta_Alex\bin\Debug\LTDesktop.exe
+..\Manta_Alex\bin\Release\LTDesktop.exe.config
+..\Manta_Alex\bin\Release\LTDesktop.exe.manifest
 ..\Manta_Alex\bin\Release\update.xml

@@ -39,6 +39,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label_con = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btn_settings = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -103,7 +104,7 @@
             this.label5.Font = new System.Drawing.Font("Arial", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label5.Location = new System.Drawing.Point(12, 67);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(191, 40);
+            this.label5.Size = new System.Drawing.Size(184, 38);
             this.label5.TabIndex = 16;
             this.label5.Text = "LTDesktop";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -130,12 +131,23 @@
             this.pictureBox1.TabIndex = 15;
             this.pictureBox1.TabStop = false;
             // 
+            // btn_settings
+            // 
+            this.btn_settings.Location = new System.Drawing.Point(12, 238);
+            this.btn_settings.Name = "btn_settings";
+            this.btn_settings.Size = new System.Drawing.Size(110, 32);
+            this.btn_settings.TabIndex = 18;
+            this.btn_settings.Text = "Settings";
+            this.btn_settings.UseVisualStyleBackColor = true;
+            this.btn_settings.Click += new System.EventHandler(this.btn_settings_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(518, 282);
+            this.Controls.Add(this.btn_settings);
             this.Controls.Add(this.label_con);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.pictureBox1);
@@ -171,6 +183,7 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label_con;
+        private System.Windows.Forms.Button btn_settings;
     }
 }
 

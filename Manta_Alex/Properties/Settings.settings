@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LTD_People.Properties" GeneratedClassName="Settings">
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LTDesktop.Properties" GeneratedClassName="Settings">
   <Profiles />
   <Settings>
     <Setting Name="Server" Type="System.String" Scope="User">
@@ -8,7 +8,7 @@
     <Setting Name="Port" Type="System.String" Scope="User">
       <Value Profile="(Default)">49257</Value>
     </Setting>
-    <Setting Name="db" Type="System.String" Scope="User">
+    <Setting Name="DB" Type="System.String" Scope="User">
       <Value Profile="(Default)">M&amp;A</Value>
     </Setting>
     <Setting Name="User" Type="System.String" Scope="User">
@@ -16,6 +16,9 @@
     </Setting>
     <Setting Name="Password" Type="System.String" Scope="User">
       <Value Profile="(Default)">BusinessCloud123</Value>
+    </Setting>
+    <Setting Name="run" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
     </Setting>
   </Settings>
 </SettingsFile>

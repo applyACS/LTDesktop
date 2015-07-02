@@ -12,6 +12,7 @@ using System.Xml;
 using System.DirectoryServices.AccountManagement;
 using System.Security.Cryptography;
 using System.Net;
+using LTDesktop;
 
 namespace Manta_Alex
 {
@@ -34,16 +35,18 @@ namespace Manta_Alex
 
         private void button_connect_Click(object sender, EventArgs e)
         {
+            btn_settings.Visible = false;
             
             if (txt_user.Text == null || txt_user.Text == "" && txt_pass.Text == null || txt_pass.Text == "")
             {
                 MessageBox.Show("You have to complete all fields!");
+                btn_settings.Visible = true;
             }
             else
             {
                 arg.Add(LTDesktop.Properties.Settings.Default.Server.ToString());
                 arg.Add(LTDesktop.Properties.Settings.Default.Port.ToString());
-                arg.Add(LTDesktop.Properties.Settings.Default.db.ToString());
+                arg.Add(LTDesktop.Properties.Settings.Default.DB.ToString());
                 arg.Add(LTDesktop.Properties.Settings.Default.User.ToString());
                 arg.Add(LTDesktop.Properties.Settings.Default.Password.ToString());
                 arg.Add("false");
@@ -71,6 +74,7 @@ namespace Manta_Alex
                         txt_pass.Enabled = true;
                         txt_user.Enabled = true;
                         MessageBox.Show("Check your credentials", "Error");
+                        btn_settings.Visible = true;
                         return;
 
                     }
@@ -90,6 +94,7 @@ namespace Manta_Alex
                 else
                 {
                     MessageBox.Show("Please start your VPN connection");
+                    btn_settings.Visible = true;
                 }
                 
                 
@@ -269,7 +274,18 @@ namespace Manta_Alex
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            if (LTDesktop.Properties.Settings.Default.run)
+            {
+                FormSettings frm = new FormSettings();
+                frm.ShowDialog();
+                LTDesktop.Properties.Settings.Default.run = false;
+            }
+        }
 
+        private void btn_settings_Click(object sender, EventArgs e)
+        {
+            FormSettings frm = new FormSettings();
+            frm.ShowDialog();
         }
     }
 }

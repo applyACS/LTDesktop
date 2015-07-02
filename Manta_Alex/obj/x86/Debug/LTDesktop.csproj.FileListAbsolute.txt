@@ -5,7 +5,6 @@ D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Debug\Manta_Alex.files.resources
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Debug\Manta_Alex.Form1.resources
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Debug\Manta_Alex.Form2.resources
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Debug\Manta_Alex.Form3.resources
-D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Debug\Manta_Alex.Form4.resources
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Debug\Manta_Alex.Form5.resources
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Debug\Manta_Alex.Form6.resources
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Debug\Manta_Alex.Form7.resources
@@ -25,3 +24,4 @@ D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Debug\LTDesktop.exe.manifest
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Debug\LTDesktop.application
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Debug\LTDesktop.exe
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Debug\LTDesktop.pdb
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Debug\LTDesktop.FormSettings.resources
