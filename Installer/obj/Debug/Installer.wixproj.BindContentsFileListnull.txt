@@ -1,8 +1,0 @@
-..\Manta_Alex\bin\Release\DotRas.dll
-..\Manta_Alex\bin\Release\GongShell.dll
-..\Manta_Alex\bin\Release\itextsharp.dll
-..\Manta_Alex\bin\Release\logo.jpg
-D:\applyACS\LTDesktop\Manta_Alex\bin\Debug\LTDesktop.exe
-..\Manta_Alex\bin\Release\LTDesktop.exe.config
-..\Manta_Alex\bin\Release\LTDesktop.exe.manifest
-..\Manta_Alex\bin\Release\update.xml

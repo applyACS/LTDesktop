@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Manta_Alex_Payments
+namespace LTDesktop
 {
     public partial class Browser : Form
     {

@@ -63,13 +63,13 @@
         </File>
       </Component>
       <Component Guid="{222D0F4F-459E-4707-B4C5-61C01B1DE3C4}">
-        <File Source="..\Manta_Alex\bin\Release\DotRas.dll" KeyPath="yes"></File>
+        <File Source="..\DotRas.dll" KeyPath="yes"></File>
       </Component>
       <Component Guid="{D881B676-E07E-4AD1-9443-CBF377540DCD}">
-        <File Source="..\Manta_Alex\bin\Release\itextsharp.dll" KeyPath="yes"></File>
+        <File Source="..\itextsharp.dll" KeyPath="yes"></File>
       </Component>
       <Component Guid="{7794E8A4-1BEC-415B-A2CD-566CD83F36C7}">
-        <File Source="..\Manta_Alex\bin\Release\GongShell.dll" KeyPath="yes"></File>
+        <File Source="..\GongShell.dll" KeyPath="yes"></File>
       </Component>
       <Component Guid="{00941277-31C3-4CB3-899F-B23EC796D4BB}">
         <File Source ="..\Manta_Alex\bin\Release\LTDesktop.exe.manifest" KeyPath="yes"></File>

@@ -12,9 +12,8 @@ using System.Xml;
 using System.DirectoryServices.AccountManagement;
 using System.Security.Cryptography;
 using System.Net;
-using LTDesktop;
 
-namespace Manta_Alex
+namespace LTDesktop
 {
     public partial class Form1 : Form
     {
@@ -286,6 +285,12 @@ namespace Manta_Alex
         {
             FormSettings frm = new FormSettings();
             frm.ShowDialog();
+        }
+
+        private void btn_register_Click(object sender, EventArgs e)
+        {
+            Register reg = new Register();
+            reg.ShowDialog();
         }
     }
 }

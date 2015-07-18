@@ -13,10 +13,9 @@ using System.IO;
 using iTextSharp.text;
 using iTextSharp.text.pdf;
 using System.Net.NetworkInformation;
-using Manta_Alex;
 
 
-namespace Manta_Alex_Payments
+namespace LTDesktop
 {
     public partial class payments : Form
     {

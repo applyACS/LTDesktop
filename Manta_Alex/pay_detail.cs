@@ -12,9 +12,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using iTextSharp.text;
 using iTextSharp.text.pdf;
-using Manta_Alex;
 
-namespace Manta_Alex_Payments
+namespace LTDesktop
 {
     public partial class pay_detail : Form
     {

@@ -8,7 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-namespace Manta_Alex
+namespace LTDesktop
 {
     public partial class Form6 : Form
     {

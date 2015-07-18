@@ -4,7 +4,7 @@
   <description asmv2:iconFile="logo_t.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="LTDesktop" version="2.3.3.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="LTDesktop" version="3.0.0.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="LTDesktop.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,18 +43,6 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DotRas.dll" size="221184">
-      <assemblyIdentity name="DotRas" version="1.3.5166.33435" publicKeyToken="B378F04384B7892A" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>tYgGMr6PNEWqEEXNjvBMvOYQ6/0=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GongShell.dll" size="111616">
       <assemblyIdentity name="GongShell" version="0.6.0.31544" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -79,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LTDesktop.exe" size="2440192">
-      <assemblyIdentity name="LTDesktop" version="2.3.3.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LTDesktop.exe" size="2558976">
+      <assemblyIdentity name="LTDesktop" version="3.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>lHwGDpbnSH8/QFk4sBxZb7zC7B4=</dsig:DigestValue>
+        <dsig:DigestValue>AsWTThiHySr3MEMw9NCiX977f+w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -99,13 +87,13 @@
       <dsig:DigestValue>PMOwFaSQYUNzto2UX2SUNTgZ/48=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LTDesktop.exe.config" size="1587">
+  <file name="LTDesktop.exe.config" size="1446">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>4d8zyJnGKy8mCBAAEdTebi3p3uM=</dsig:DigestValue>
+      <dsig:DigestValue>pc2cZeFXGO2IDkAoPCN7WpzWL9U=</dsig:DigestValue>
     </hash>
   </file>
   <file name="NEW_LOGO_LOOK.ico" size="71870">

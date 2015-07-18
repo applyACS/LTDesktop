@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LTDesktop.exe" size="2565120">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LTDesktop.exe" size="2558976">
       <assemblyIdentity name="LTDesktop" version="3.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>/kg5k0MZ6R1OiNI4LuG9HCBPnmM=</dsig:DigestValue>
+        <dsig:DigestValue>O9Xc7qOrlB1mOyIXlxziSLTElbE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

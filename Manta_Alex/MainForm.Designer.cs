@@ -1,4 +1,4 @@
-﻿namespace Manta_Alex
+﻿namespace LTDesktop
 {
     partial class Form2
     {
@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
             this.dataGridView = new System.Windows.Forms.DataGridView();
             this.cb_search = new System.Windows.Forms.ComboBox();
@@ -67,6 +67,8 @@
             this.btt_files = new System.Windows.Forms.Button();
             this.dataSet11 = new LTDesktop.DataSet1();
             this.btt_payments = new System.Windows.Forms.Button();
+            this.btn_register = new System.Windows.Forms.Button();
+            this.btn_change = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.btt_search = new System.Windows.Forms.Button();
             this.button_mail = new System.Windows.Forms.Button();
@@ -98,19 +100,19 @@
             this.dataGridView.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView.BackgroundColor = System.Drawing.SystemColors.ControlLight;
             this.dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Times New Roman", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataGridView.DefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle9.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle9.Font = new System.Drawing.Font("Times New Roman", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle9.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle9.SelectionBackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            dataGridViewCellStyle9.SelectionForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridView.DefaultCellStyle = dataGridViewCellStyle9;
             this.dataGridView.Location = new System.Drawing.Point(12, 34);
             this.dataGridView.Name = "dataGridView";
             this.dataGridView.RowHeadersWidth = 40;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dataGridView.RowsDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle10.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dataGridView.RowsDefaultCellStyle = dataGridViewCellStyle10;
             this.dataGridView.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridView.Size = new System.Drawing.Size(994, 556);
             this.dataGridView.TabIndex = 0;
@@ -130,7 +132,7 @@
             this.cb_search.FormattingEnabled = true;
             this.cb_search.Location = new System.Drawing.Point(624, 662);
             this.cb_search.Name = "cb_search";
-            this.cb_search.Size = new System.Drawing.Size(121, 30);
+            this.cb_search.Size = new System.Drawing.Size(121, 27);
             this.cb_search.TabIndex = 6;
             this.cb_search.KeyDown += new System.Windows.Forms.KeyEventHandler(this.cb_search_KeyDown);
             // 
@@ -141,7 +143,7 @@
             this.txt_search.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_search.Location = new System.Drawing.Point(12, 663);
             this.txt_search.Name = "txt_search";
-            this.txt_search.Size = new System.Drawing.Size(606, 30);
+            this.txt_search.Size = new System.Drawing.Size(606, 26);
             this.txt_search.TabIndex = 5;
             this.txt_search.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_search_KeyDown);
             this.txt_search.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txt_search_KeyUp);
@@ -153,7 +155,7 @@
             this.label1.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(12, 639);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(77, 27);
+            this.label1.Size = new System.Drawing.Size(61, 21);
             this.label1.TabIndex = 6;
             this.label1.Text = "Search";
             // 
@@ -166,19 +168,19 @@
             this.dataGridView_ticket.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView_ticket.BackgroundColor = System.Drawing.SystemColors.ControlLight;
             this.dataGridView_ticket.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Times New Roman", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataGridView_ticket.DefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle11.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle11.Font = new System.Drawing.Font("Times New Roman", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle11.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle11.SelectionBackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            dataGridViewCellStyle11.SelectionForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle11.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridView_ticket.DefaultCellStyle = dataGridViewCellStyle11;
             this.dataGridView_ticket.Location = new System.Drawing.Point(1012, 34);
             this.dataGridView_ticket.Name = "dataGridView_ticket";
             this.dataGridView_ticket.ReadOnly = true;
-            dataGridViewCellStyle4.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dataGridView_ticket.RowsDefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle12.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dataGridView_ticket.RowsDefaultCellStyle = dataGridViewCellStyle12;
             this.dataGridView_ticket.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridView_ticket.Size = new System.Drawing.Size(335, 556);
             this.dataGridView_ticket.TabIndex = 8;
@@ -190,7 +192,7 @@
             this.txt_search1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_search1.Location = new System.Drawing.Point(772, 663);
             this.txt_search1.Name = "txt_search1";
-            this.txt_search1.Size = new System.Drawing.Size(194, 30);
+            this.txt_search1.Size = new System.Drawing.Size(194, 26);
             this.txt_search1.TabIndex = 8;
             this.txt_search1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_search1_KeyDown);
             // 
@@ -201,7 +203,7 @@
             this.comboBox_se.FormattingEnabled = true;
             this.comboBox_se.Location = new System.Drawing.Point(972, 663);
             this.comboBox_se.Name = "comboBox_se";
-            this.comboBox_se.Size = new System.Drawing.Size(121, 30);
+            this.comboBox_se.Size = new System.Drawing.Size(121, 27);
             this.comboBox_se.TabIndex = 9;
             this.comboBox_se.KeyDown += new System.Windows.Forms.KeyEventHandler(this.comboBox_se_KeyDown);
             // 
@@ -209,9 +211,9 @@
             // 
             this.ch_box_search.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.ch_box_search.AutoSize = true;
-            this.ch_box_search.Location = new System.Drawing.Point(748, 668);
+            this.ch_box_search.Location = new System.Drawing.Point(751, 671);
             this.ch_box_search.Name = "ch_box_search";
-            this.ch_box_search.Size = new System.Drawing.Size(18, 17);
+            this.ch_box_search.Size = new System.Drawing.Size(15, 14);
             this.ch_box_search.TabIndex = 7;
             this.ch_box_search.UseVisualStyleBackColor = true;
             this.ch_box_search.CheckedChanged += new System.EventHandler(this.ch_box_search_CheckedChanged);
@@ -242,7 +244,7 @@
             this.helpToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1359, 33);
+            this.menuStrip1.Size = new System.Drawing.Size(1359, 28);
             this.menuStrip1.TabIndex = 19;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -251,14 +253,14 @@
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.exitToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(53, 29);
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(44, 24);
             this.fileToolStripMenuItem.Text = "File";
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
             this.exitToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.F4)));
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(181, 30);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(155, 24);
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
@@ -270,14 +272,14 @@
             this.deleteToolStripMenuItem,
             this.detailsToolStripMenuItem});
             this.personToolStripMenuItem.Name = "personToolStripMenuItem";
-            this.personToolStripMenuItem.Size = new System.Drawing.Size(82, 29);
+            this.personToolStripMenuItem.Size = new System.Drawing.Size(65, 24);
             this.personToolStripMenuItem.Text = "Person";
             // 
             // addToolStripMenuItem
             // 
             this.addToolStripMenuItem.Name = "addToolStripMenuItem";
             this.addToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F2;
-            this.addToolStripMenuItem.Size = new System.Drawing.Size(209, 30);
+            this.addToolStripMenuItem.Size = new System.Drawing.Size(177, 24);
             this.addToolStripMenuItem.Text = "Add";
             this.addToolStripMenuItem.Click += new System.EventHandler(this.addToolStripMenuItem_Click);
             // 
@@ -285,7 +287,7 @@
             // 
             this.editToolStripMenuItem.Name = "editToolStripMenuItem";
             this.editToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F3;
-            this.editToolStripMenuItem.Size = new System.Drawing.Size(209, 30);
+            this.editToolStripMenuItem.Size = new System.Drawing.Size(177, 24);
             this.editToolStripMenuItem.Text = "Edit";
             this.editToolStripMenuItem.Click += new System.EventHandler(this.editToolStripMenuItem_Click);
             // 
@@ -293,7 +295,7 @@
             // 
             this.deleteToolStripMenuItem.Name = "deleteToolStripMenuItem";
             this.deleteToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.Delete;
-            this.deleteToolStripMenuItem.Size = new System.Drawing.Size(209, 30);
+            this.deleteToolStripMenuItem.Size = new System.Drawing.Size(177, 24);
             this.deleteToolStripMenuItem.Text = "Delete";
             this.deleteToolStripMenuItem.Click += new System.EventHandler(this.deleteToolStripMenuItem_Click);
             // 
@@ -301,7 +303,7 @@
             // 
             this.detailsToolStripMenuItem.Name = "detailsToolStripMenuItem";
             this.detailsToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.D)));
-            this.detailsToolStripMenuItem.Size = new System.Drawing.Size(209, 30);
+            this.detailsToolStripMenuItem.Size = new System.Drawing.Size(177, 24);
             this.detailsToolStripMenuItem.Text = "Details";
             this.detailsToolStripMenuItem.Click += new System.EventHandler(this.detailsToolStripMenuItem_Click);
             // 
@@ -310,13 +312,13 @@
             this.gridToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.exportToExcelToolStripMenuItem});
             this.gridToolStripMenuItem.Name = "gridToolStripMenuItem";
-            this.gridToolStripMenuItem.Size = new System.Drawing.Size(60, 29);
+            this.gridToolStripMenuItem.Size = new System.Drawing.Size(49, 24);
             this.gridToolStripMenuItem.Text = "Grid";
             // 
             // exportToExcelToolStripMenuItem
             // 
             this.exportToExcelToolStripMenuItem.Name = "exportToExcelToolStripMenuItem";
-            this.exportToExcelToolStripMenuItem.Size = new System.Drawing.Size(208, 30);
+            this.exportToExcelToolStripMenuItem.Size = new System.Drawing.Size(177, 24);
             this.exportToExcelToolStripMenuItem.Text = "Export to Excel";
             this.exportToExcelToolStripMenuItem.Click += new System.EventHandler(this.exportToExcelToolStripMenuItem_Click);
             // 
@@ -324,7 +326,7 @@
             // 
             this.emailToolStripMenuItem.Name = "emailToolStripMenuItem";
             this.emailToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.E)));
-            this.emailToolStripMenuItem.Size = new System.Drawing.Size(70, 29);
+            this.emailToolStripMenuItem.Size = new System.Drawing.Size(58, 24);
             this.emailToolStripMenuItem.Text = "Email";
             this.emailToolStripMenuItem.Click += new System.EventHandler(this.emailToolStripMenuItem_Click);
             // 
@@ -335,14 +337,14 @@
             this.renewToolStripMenuItem,
             this.deleteToolStripMenuItem1});
             this.ticketsToolStripMenuItem.Name = "ticketsToolStripMenuItem";
-            this.ticketsToolStripMenuItem.Size = new System.Drawing.Size(81, 29);
+            this.ticketsToolStripMenuItem.Size = new System.Drawing.Size(66, 24);
             this.ticketsToolStripMenuItem.Text = "Tickets";
             // 
             // addToolStripMenuItem1
             // 
             this.addToolStripMenuItem1.Name = "addToolStripMenuItem1";
             this.addToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.A)));
-            this.addToolStripMenuItem1.Size = new System.Drawing.Size(221, 30);
+            this.addToolStripMenuItem1.Size = new System.Drawing.Size(187, 24);
             this.addToolStripMenuItem1.Text = "Add";
             this.addToolStripMenuItem1.Click += new System.EventHandler(this.addToolStripMenuItem1_Click);
             // 
@@ -350,7 +352,7 @@
             // 
             this.renewToolStripMenuItem.Name = "renewToolStripMenuItem";
             this.renewToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.R)));
-            this.renewToolStripMenuItem.Size = new System.Drawing.Size(221, 30);
+            this.renewToolStripMenuItem.Size = new System.Drawing.Size(187, 24);
             this.renewToolStripMenuItem.Text = "Renew";
             this.renewToolStripMenuItem.Click += new System.EventHandler(this.renewToolStripMenuItem_Click);
             // 
@@ -358,7 +360,7 @@
             // 
             this.deleteToolStripMenuItem1.Name = "deleteToolStripMenuItem1";
             this.deleteToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Delete)));
-            this.deleteToolStripMenuItem1.Size = new System.Drawing.Size(221, 30);
+            this.deleteToolStripMenuItem1.Size = new System.Drawing.Size(187, 24);
             this.deleteToolStripMenuItem1.Text = "Delete";
             this.deleteToolStripMenuItem1.Click += new System.EventHandler(this.deleteToolStripMenuItem1_Click);
             // 
@@ -367,14 +369,14 @@
             this.helpToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.websiteToolStripMenuItem});
             this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
-            this.helpToolStripMenuItem.Size = new System.Drawing.Size(63, 29);
+            this.helpToolStripMenuItem.Size = new System.Drawing.Size(53, 24);
             this.helpToolStripMenuItem.Text = "Help";
             // 
             // websiteToolStripMenuItem
             // 
             this.websiteToolStripMenuItem.Name = "websiteToolStripMenuItem";
             this.websiteToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F1;
-            this.websiteToolStripMenuItem.Size = new System.Drawing.Size(183, 30);
+            this.websiteToolStripMenuItem.Size = new System.Drawing.Size(156, 24);
             this.websiteToolStripMenuItem.Text = "Website";
             this.websiteToolStripMenuItem.Click += new System.EventHandler(this.websiteToolStripMenuItem_Click);
             // 
@@ -383,9 +385,9 @@
             this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(1162, 9);
+            this.label2.Location = new System.Drawing.Point(870, 9);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(90, 22);
+            this.label2.Size = new System.Drawing.Size(69, 19);
             this.label2.TabIndex = 20;
             this.label2.Text = "Loged in: ";
             // 
@@ -394,9 +396,9 @@
             this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(1237, 9);
+            this.label3.Location = new System.Drawing.Point(957, 9);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(60, 22);
+            this.label3.Size = new System.Drawing.Size(45, 19);
             this.label3.TabIndex = 21;
             this.label3.Text = "label3";
             this.label3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.label3_MouseDown);
@@ -429,6 +431,29 @@
             this.btt_payments.Text = "Payments";
             this.btt_payments.UseVisualStyleBackColor = true;
             this.btt_payments.Click += new System.EventHandler(this.btt_payments_Click);
+            // 
+            // btn_register
+            // 
+            this.btn_register.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.btn_register.Location = new System.Drawing.Point(1210, 5);
+            this.btn_register.Name = "btn_register";
+            this.btn_register.Size = new System.Drawing.Size(137, 23);
+            this.btn_register.TabIndex = 24;
+            this.btn_register.Text = "Register new user";
+            this.btn_register.UseVisualStyleBackColor = true;
+            this.btn_register.Visible = false;
+            this.btn_register.Click += new System.EventHandler(this.btn_register_Click);
+            // 
+            // btn_change
+            // 
+            this.btn_change.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.btn_change.Location = new System.Drawing.Point(1067, 5);
+            this.btn_change.Name = "btn_change";
+            this.btn_change.Size = new System.Drawing.Size(137, 23);
+            this.btn_change.TabIndex = 25;
+            this.btn_change.Text = "Change password";
+            this.btn_change.UseVisualStyleBackColor = true;
+            this.btn_change.Click += new System.EventHandler(this.btn_change_Click);
             // 
             // button4
             // 
@@ -597,10 +622,12 @@
             // 
             // Form2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(1359, 695);
+            this.Controls.Add(this.btn_change);
+            this.Controls.Add(this.btn_register);
             this.Controls.Add(this.btt_payments);
             this.Controls.Add(this.btt_files);
             this.Controls.Add(this.label3);
@@ -695,5 +722,7 @@
         private System.Windows.Forms.Button btt_files;
         private LTDesktop.DataSet1 dataSet11;
         private System.Windows.Forms.Button btt_payments;
+        private System.Windows.Forms.Button btn_register;
+        private System.Windows.Forms.Button btn_change;
     }
 }

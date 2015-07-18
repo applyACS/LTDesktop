@@ -1,4 +1,4 @@
-﻿namespace Manta_Alex
+﻿namespace LTDesktop
 {
     partial class log
     {

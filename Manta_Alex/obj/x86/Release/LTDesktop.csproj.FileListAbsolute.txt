@@ -28,19 +28,6 @@ D:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Release\itextsharp.dll
 D:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\bin\Release\itextsharp.xml
 D:\M&A Projects\Manta_Alex (CRISTIAN-PC)\Manta_Alex\obj\x86\Release\LTD_People.application
 D:\applyACS\LTDesktop\Manta_Alex\bin\Release\GongShell.dll
-D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex_Payments.Browser.resources
-D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex.files.resources
-D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex.Form1.resources
-D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex.Form2.resources
-D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex.Form3.resources
-D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex.Form4.resources
-D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex.Form5.resources
-D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex.Form6.resources
-D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex.Form7.resources
-D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex.log.resources
-D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex_Payments.payments.resources
-D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex_Payments.pay_detail.resources
-D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\Manta_Alex_Payments.working.resources
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.csproj.GenerateResource.Cache
 D:\applyACS\LTDesktop\Manta_Alex\bin\Release\LTDesktop.exe.config
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.Properties.Resources.resources
@@ -53,3 +40,19 @@ D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.exe.manifest
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.application
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.exe
 D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.pdb
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.Browser.resources
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.changePassword.resources
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.files.resources
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.Form1.resources
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.Form2.resources
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.Form3.resources
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.Form5.resources
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.Form6.resources
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.Form7.resources
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.FormSettings.resources
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.log.resources
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.payments.resources
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.pay_detail.resources
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.Register.resources
+D:\applyACS\LTDesktop\Manta_Alex\obj\x86\Release\LTDesktop.working.resources
+D:\applyACS\LTDesktop\Manta_Alex\bin\Release\itextsharp.dll

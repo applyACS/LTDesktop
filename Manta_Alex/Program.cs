@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Manta_Alex
+namespace LTDesktop
 {
     static class Program
     {
@@ -21,12 +21,8 @@ namespace Manta_Alex
             {
                 Form7 frm = new Form7();
                 Application.Run(frm);
-                Form2 frm2 = new Form2();
+                LTDesktop.Form2 frm2 = new LTDesktop.Form2();
                 Application.Run(frm2);
-                //if(frm2.DialogResult == DialogResult.OK)
-                //{
-                //    Application.Restart();
-                //}
             }
         }
     }

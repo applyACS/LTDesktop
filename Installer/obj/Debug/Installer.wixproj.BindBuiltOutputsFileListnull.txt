@@ -1,2 +1,0 @@
-D:\applyACS\LTDesktop\Installer\bin\Debug\MAD.msi
-D:\applyACS\LTDesktop\Installer\bin\Debug\MAD.wixpdb

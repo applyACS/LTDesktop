@@ -11,10 +11,8 @@ using System.IO;
 using System.Net;
 using System.Net.Mail;
 using System.Xml;
-using LTDesktop;
-using Manta_Alex_Payments;
 
-namespace Manta_Alex
+namespace LTDesktop
 {
     public partial class Form2 : Form
     {
@@ -60,6 +58,7 @@ namespace Manta_Alex
             if (Form1.role == "admin")
             {
                 cm.MenuItems.Add("View logs", new EventHandler(logs));
+                btn_register.Visible = true;
             }
         }
         
@@ -1953,6 +1952,18 @@ namespace Manta_Alex
             }
             verifdate();
             work();
+        }
+
+        private void btn_register_Click(object sender, EventArgs e)
+        {
+            Register reg = new Register();
+            reg.ShowDialog();
+        }
+
+        private void btn_change_Click(object sender, EventArgs e)
+        {
+            changePassword chg = new changePassword();
+            chg.ShowDialog();
         }
     }
 }

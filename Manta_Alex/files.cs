@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Manta_Alex
+namespace LTDesktop
 {
     public partial class files : Form
     {

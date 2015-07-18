@@ -1,4 +1,4 @@
-﻿namespace Manta_Alex_Payments
+﻿namespace LTDesktop
 {
     partial class pay_detail
     {

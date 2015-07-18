@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LTDesktop.exe" size="2439168">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LTDesktop.exe" size="2558976">
       <assemblyIdentity name="LTDesktop" version="3.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>fVFcjJYZBeyPlCsoJFE4okp9vpI=</dsig:DigestValue>
+        <dsig:DigestValue>yd+hqsn5iqLYz43oANCu42pWujA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -87,13 +87,13 @@
       <dsig:DigestValue>PMOwFaSQYUNzto2UX2SUNTgZ/48=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LTDesktop.exe.config" size="1587">
+  <file name="LTDesktop.exe.config" size="1446">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>4d8zyJnGKy8mCBAAEdTebi3p3uM=</dsig:DigestValue>
+      <dsig:DigestValue>pc2cZeFXGO2IDkAoPCN7WpzWL9U=</dsig:DigestValue>
     </hash>
   </file>
   <file name="NEW_LOGO_LOOK.ico" size="71870">

@@ -11,7 +11,7 @@ using System.Net.Mail;
 using System.IO;
 using System.Globalization;
 
-namespace Manta_Alex
+namespace LTDesktop
 {
     public partial class Form3 : Form
     {
